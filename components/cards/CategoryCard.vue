@@ -1,6 +1,6 @@
 <template>
-  <generic-card :title="title" :image="image" :link="link">
-    {{ description }}
+  <generic-card :title="titulo" :image="imagen" :link="link">
+    {{ descripcion }}
   </generic-card>
 </template>
 
