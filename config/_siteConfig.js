@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Alex Medina',
+  tagline: 'Diputado del departamento de Santander',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -19,25 +19,25 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'Somos Santander',
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'Contacto',
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Categorias',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'Asamblea',
+      link: 'https://www.asambleadesantander.gov.co/',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'Gobernacion',
+      link: 'http://santander.gov.co/',
       target: '_blank'
     }
   ],
@@ -61,14 +61,14 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'noealexandermedina' // 'noealexandermedina'
   },
 
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
-    btnText: 'Subscribe',
+    heading: 'Suscribete a nuestro boletin',
+    btnText: 'Subscribete',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
