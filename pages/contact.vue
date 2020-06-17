@@ -3,7 +3,7 @@
     <site-hero
       title="Contactenos"
       subtitle="Listos para escucharte"
-      image="/uploads/contact-hero.jpg"
+      image="https://tinyurl.com/y94u4uyz"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
