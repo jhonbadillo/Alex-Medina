@@ -27,7 +27,7 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categorias',
+      name: 'Noticias',
       link: '/categories'
     },
     {
