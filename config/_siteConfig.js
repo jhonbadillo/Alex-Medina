@@ -12,7 +12,7 @@ export default {
   siteName: 'Noe Alexander Medina',
   tagline: 'Diputado del departamento de Santander',
   featureImage: '/uploads/noe5.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/uploads/logoAM.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
