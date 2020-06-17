@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Noe Alexander Medina',
   tagline: 'Diputado del departamento de Santander',
-  featureImage: '/uploads/noe4.jpg',
+  featureImage: '/uploads/noe5.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
