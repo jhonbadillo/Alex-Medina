@@ -15,7 +15,7 @@
         <posts-grid />
       </template>
       <template v-slot:sidebar>
-        Nothing here
+        Nada aqui 
       </template>
     </main-section>
     <news-letter-form-modal />
