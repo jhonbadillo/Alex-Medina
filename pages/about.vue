@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Quien soy?</h3>
+          <h3>¿Quien soy?</h3>
           <p>
             <strong>
               Conoce quien es Noe Alexander Medina.
@@ -30,7 +30,7 @@
           <quote-card />
           <h3>Experiencia</h3>
           <p>
-            rabajé como Técnico Administrativo en el Hospital del municipio de Bolívar 
+            Trabajé como Técnico Administrativo en el Hospital del municipio de Bolívar 
             en el periodo comprendido del 1 de julio 1993 a 20 de diciembre 2004, fui 
             Alcalde del municipio de Bolívar Santander en el periodo 2008 – 2011.
           </p>
