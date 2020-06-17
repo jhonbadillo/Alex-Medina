@@ -3,7 +3,7 @@
     <site-hero
       title="Somos Santander"
       subtitle="Quien es el diputado Noe Alexander Medina"
-      image="https://tinyurl.com/y8n9keca"
+      image="/uploads/noe2.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
