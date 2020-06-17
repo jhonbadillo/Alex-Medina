@@ -9,9 +9,9 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Alex Medina',
+  siteName: 'Noe Alexander Medina',
   tagline: 'Diputado del departamento de Santander',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/noe4.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
