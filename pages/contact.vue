@@ -1,8 +1,8 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
+      title="Contactenos"
+      subtitle="Listos para escucharte"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -11,10 +11,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Hola!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                Que puedo hacer por ti?
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -28,15 +28,17 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    mi objetivo es ser <code>gestor </code>de proyectos incluyentes para toda la comunidad.
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Nací en Bolívar Santander, el 3 de febrero 1973. 
+                  Hijo de Noé Medina y Bárbara Sosa, padres Educadores, 
+                  soy el mayor de 4 hermanos, Mi hermosa familia está 
+                  conformada por mi esposa Dora Emilce Moreno Vargas 
+                  y mis Hijos María Alejandra, Karen Daniela y David Steban. 
+                  Realice mis estudios de primaria y bachillerato en el 
+                  Colegio Integrado Simón Bolívar en el municipio de Bolívar Santander.
                 </p>
               </div>
             </article>
@@ -50,7 +52,7 @@
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
-          Latest Posts
+          Ultimas Publicaciones
         </h3>
         <!-- Latest Posts -->
         <posts-grid :per-row="1" :number="2" />
