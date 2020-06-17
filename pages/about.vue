@@ -1,44 +1,38 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="Somos Santander"
+      subtitle="Desarrollo de actividades del Diputado Alexander Medina"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Quien soy?</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Conoce quien es Noe Alexander Medina.
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Nací en Bolívar Santander, el 3 de febrero 1973. Hijo de Noé Medina 
+            y Bárbara Sosa, padres Educadores, soy el mayor de 4 hermanos, Mi hermosa 
+            familia está conformada por mi esposa Dora Emilce Moreno Vargas y mis Hijos 
+            María Alejandra, Karen Daniela y David Steban. Realice mis estudios de primaria 
+            y bachillerato en el Colegio Integrado Simón Bolívar en el municipio de Bolívar Santander.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>Estudios</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Soy Administrador de Empresas y Empresario en el Gremio de Distribución de productos 
+            de aseo y alimentos para el canal de tiendas.
           </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <h3>Experiencia</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            rabajé como Técnico Administrativo en el Hospital del municipio de Bolívar 
+            en el periodo comprendido del 1 de julio 1993 a 20 de diciembre 2004, fui 
+            Alcalde del municipio de Bolívar Santander en el periodo 2008 – 2011.
           </p>
         </div>
 
@@ -87,7 +81,7 @@
 
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
-          Latest Posts
+          Ultimas publicaciones
         </h3>
         <posts-grid :per-row="1" :number="2" />
       </template>
