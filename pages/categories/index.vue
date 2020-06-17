@@ -1,6 +1,6 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
-    <site-hero title="Categories" image="https://tinyurl.com/y94c8yo6" />
+    <site-hero title="Categorias" image="https://tinyurl.com/y94c8yo6" />
     <main-section theme="one-column">
       <categories-grid />
     </main-section>
@@ -10,7 +10,7 @@
 export default {
   head() {
     return {
-      title: `Categories | ${this.$siteConfig.siteName}`
+      title: `Categorias | ${this.$siteConfig.siteName}`
     }
   }
 }
