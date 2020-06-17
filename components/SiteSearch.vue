@@ -34,7 +34,7 @@
         </div>
 
         <li v-else>
-          No results found
+          No se encontraron resultados
           <font-awesome-icon
             icon="times"
             @click="toggleSearchBar()"
