@@ -93,7 +93,7 @@ import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
-      title: `About | ${this.$siteConfig.siteName}`
+      title: `Somos Santander | ${this.$siteConfig.siteName}`
     }
   },
   components: { QuoteCard }
