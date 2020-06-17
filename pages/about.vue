@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Somos Santander"
-      subtitle="Desarrollo de actividades del Diputado Alexander Medina"
+      subtitle="Quien es el diputado Noe Alexander Medina"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
