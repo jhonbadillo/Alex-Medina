@@ -1,6 +1,6 @@
 <template>
   <div id="post-page" class="page-wrapper post-page">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+    <site-hero :title="titulo" :subtitle="subtitulo" :image="Imagen">
       <span
         v-if="author && $siteConfig.posts.displayAuthor"
         class="author-wrapper"
