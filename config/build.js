@@ -53,6 +53,7 @@ if (process.env.NODE_ENV === 'production') {
           'tbody',
           'thead',
           'tfoot'
+          'iframe' 
         ],
         whitelistPatterns: [/theme/g, /spinner-position/, /fa/, /table/g]
       })
