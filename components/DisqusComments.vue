@@ -16,7 +16,7 @@
         $siteConfig.disqus.siteShortName &&
           (displayed || $siteConfig.disqus.loadingStrategy === 'onload')
       "
-      :shortname="$siteConfig.disqus.siteShortName"
+      :shortname="https-alexmedina-netlify-app"
       :identifier="identifier"
     />
 
