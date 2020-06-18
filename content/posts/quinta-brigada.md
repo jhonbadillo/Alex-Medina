@@ -12,6 +12,4 @@ Felicitamos a la Quinta Brigada de La Segunda División de [Ejército Nacional d
 
 Infinitas gracias por cuidar de Los Santandereanos, bendiciones, siempre adelante, ni un paso atrás.
 
-```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAsambleaMedina%2Fposts%2F3146937295393513&width=500" width="500" height="561" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-```
