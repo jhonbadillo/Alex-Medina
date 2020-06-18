@@ -2,7 +2,7 @@
   <modal-overlay
     id="newsletter-modal"
     :title="title"
-    trigger-text="Subscribe To Newsletter"
+    trigger-text="Suscribete al boletin"
     class="newsletter-modal"
   >
     <news-letter-form />
