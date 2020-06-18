@@ -31,7 +31,7 @@ export default {
   name: 'HomePage',
   head() {
     return {
-      title: `Home | ${this.$siteConfig.siteName}`
+      title: `Inicio | ${this.$siteConfig.siteName}`
     }
   },
   components: {
