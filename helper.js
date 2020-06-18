@@ -19,7 +19,7 @@ export const getFormattedDate = (date) => {
     'March',
     'April',
     'May',
-    'June',
+    'Junio',
     'July',
     'August',
     'September',
