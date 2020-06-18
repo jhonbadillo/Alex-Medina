@@ -61,7 +61,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'noealexandermedina' // 'noealexandermedina'
+    siteShortName: 'https-alexmedina-netlify-app' // 'noealexandermedina'
   },
 
   // Newsletter Subscribe
