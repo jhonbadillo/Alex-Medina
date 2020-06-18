@@ -19,6 +19,7 @@
       :shortname="https-alexmedina-netlify-app"
       :identifier="identifier"
     />
+    <Disqus lang="es_CO" />
 
     <!-- Warning to Provide Disqus Site Short Name -->
     <div
