@@ -3,8 +3,6 @@ title: Control político
 subtitle: Debate de control político - Red Pública Hospitalaria de Santander
 category:
   - Asamblea
-  - Columnas de opinión
-  - Recorridos por Santander
 author: Jhon Badillo
 date: 2020-06-18T03:47:12.789Z
 featureImage: /uploads/noti1.jpg
